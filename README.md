@@ -1,4 +1,4 @@
-## Pipeline com dados os voos de NYC
+## Pipeline com dados de voos
 Este projeto tem como objetivo realizar o saneamento e a transformação dos dados de voos, utilizando um conjunto de funções para transformar e armazenar os dados em um banco SQLite.
 
 ## Funcionalidades
