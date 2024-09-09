@@ -8,7 +8,7 @@ from assets.utils import logger
 import datetime
 import logging
 
-# load_dotenv()
+load_dotenv()
 
 # %%
 def data_clean(df, metadados):
